@@ -1,0 +1,14 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure 112Odin Alarmer",
+        "data": {
+          "beredskabsID": "Beredskabs ID (GUID from ODIN)",
+          "station": "Station (optional)",
+          "count": "Number of events (1-20)"
+        }
+      }
+    }
+  }
+}

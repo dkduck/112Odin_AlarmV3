@@ -1,0 +1,4 @@
+{
+  "title": "112Odin Alarmer",
+  "description": "Henter 112-alarmer fra ODIN RSS og laver en sensor med entries i extra attributes. Uses aiohttp for robust fetching."
+}
