@@ -1,4 +1,4 @@
-DOMAIN = "112odin_alarmer"
+DOMAIN = "112odin_alarner"
 DEFAULT_NAME = "112odin"
 DEFAULT_COUNT = 5
 CONF_BEREDSKABSID = "beredskabsID"
