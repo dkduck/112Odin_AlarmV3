@@ -3,9 +3,15 @@
     "step": {
       "user": {
         "title": "Configure 112Odin Alarmer",
+        "description": "Loading available BeredskabsID from ODIN...",
         "data": {
-          "beredskabsID": "Beredskabs ID (GUID from ODIN)",
-          "station": "Station (optional)",
+          "beredskabsID": "Beredskabs ID (select)"
+        }
+      },
+      "station": {
+        "title": "Choose station and count",
+        "data": {
+          "station": "Station (select)",
           "count": "Number of events (1-20)"
         }
       }
