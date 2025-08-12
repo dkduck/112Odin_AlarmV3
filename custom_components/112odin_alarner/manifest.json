@@ -1,0 +1,14 @@
+{
+  "domain": "112odin_alarner",
+  "name": "112Odin Alarmer",
+  "version": "1.5.0",
+  "documentation": "https://github.com/dkduck/112Odin-Alarmer",
+  "requirements": [
+    "feedparser",
+    "aiohttp"
+  ],
+  "dependencies": [],
+  "codeowners": [
+    "@dkduck"
+  ]
+}

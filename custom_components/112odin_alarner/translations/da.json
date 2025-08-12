@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Konfigurer 112Odin Alarmer",
+        "description": "Henter tilg\u00e6ngelige BeredskabsID fra ODIN...",
+        "data": {
+          "beredskabsID": "Beredskabs ID (v\u00e6lg)"
+        }
+      },
+      "station": {
+        "title": "V\u00e6lg station og antal",
+        "data": {
+          "station": "Station (v\u00e6lg)",
+          "count": "Antal h\u00e6ndelser (1-20)"
+        }
+      }
+    }
+  }
+}
